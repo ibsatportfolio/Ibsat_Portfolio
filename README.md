@@ -8,3 +8,7 @@ Machine Learning and Data Science Projects
  ###### •	This system includes the labeling of an image with English keywords with the help of datasets provided during model training. 
  ###### •	Flickr 8k dataset is used to train the CNN model called VGG16. 
  ###### •	VGG16 is responsible for image feature extraction. These extracted features will be fed to the LSTM model which in turn generates the image caption.
+ 
+ Model:
+ ![Diagram](https://user-images.githubusercontent.com/115410634/194779532-4e5e6dde-a9e1-4bf9-8a42-ff7440208a71.PNG)
+
