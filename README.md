@@ -1,6 +1,6 @@
 # Ibsat_Portfolio
 Machine Learning and Data Science Projects
-# [Project 1: # Image Caption Generator: Project Overview](https://github.com/ibsatportfolio/ibsat.git)
+# [Project 1: Image Caption Generator: Project Overview](https://github.com/ibsatportfolio/ibsat.git)
  ### Whenever an image appears in front of us our brain is capable of annotating or labeling it, but what about computers? 
  ### Now it is possible for computers to process an image and label it with a highly relevant and accurate caption.
  ### •	Created a tool which is capable of generate very relevant captions for the image with the help of datasets.
